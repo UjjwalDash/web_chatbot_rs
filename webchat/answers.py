@@ -37,6 +37,11 @@ An ROUV can be deployed in underwater locations to gather remains and collect da
 situations where divers are needed, ROUVs can inspect critical areas, while the diver determines 
 the safest possible route. ROUVs are robust and rugged in design, built to withstand harsh water
 environments, and require minimal maintenance.
+3D printer is a form of additive manufacturing or rapid prototyping,       
+We use FDM (Fused Deposition Modelling) form of printing,
+Future application for 3D printing might include creating open source scientific equipment to create open source labs,
+3-D printing is achieved using an additive process,where successive layers of material are laid down in different shapes. 
+
 '''
 #greeting input
 
