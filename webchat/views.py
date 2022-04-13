@@ -15,8 +15,9 @@ def add(request):
 
     qus=dict(request.GET)
     q=list(qus.keys())
-    print(q)
-    question=answers.user_in(q[0])
+    
+    question=str(answers.user_in(q[0])).lower()
+    print(question)
     answer=str(answers.ai_ans(question))
     '''
     dataDictionary ={'hello': 'World','geeks': 'forgeeks','ABC': 123,456: 'abc',
